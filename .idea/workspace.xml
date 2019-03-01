@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5a721f7-d3d7-44f7-bc9e-081c3af7c0e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctai1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aldado/AnyName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aldado/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aldado/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aldado/Calculatorinterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aldado/Calculatorinterfaceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aldado/ImplTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/aldado/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/aldado/CalculatorinterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aldado/AnyName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aldado/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aldado/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aldado/Calculatorinterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aldado/Calculatorinterfaceimpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/aldado/ImplTwo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/aldado/CalculatorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/aldado/CalculatorinterfaceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -103,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aldado/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+            <state relative-caret-position="294">
+              <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -248,7 +226,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551482962788" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551483507447" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -373,7 +351,7 @@
       <updated>1551307253642</updated>
       <workItem from="1551307256770" duration="299000" />
       <workItem from="1551368713856" duration="2042000" />
-      <workItem from="1551385163426" duration="14028000" />
+      <workItem from="1551385163426" duration="14637000" />
     </task>
     <servers />
   </component>
@@ -407,7 +385,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16369000" />
+    <option name="totallyTimeSpent" value="16978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -430,8 +408,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -550,8 +528,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aldado/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        <state relative-caret-position="294">
+          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
         </state>
       </provider>
     </entry>
